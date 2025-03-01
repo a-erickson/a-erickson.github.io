@@ -366,10 +366,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-presented-on-automating-reporting-in-quarto-at-the-state-of-oregon-research-academy-sora",
+            },},{id: "news-i-presented-on-automating-reporting-in-quarto-at-the-state-of-oregon-research-academy-sora",
           title: 'I presented on automating reporting in Quarto at the State of Oregon Research...',
           description: "",
           section: "News",},{id: "news-after-integrating-user-feedback-a-new-revamped-version-of-our-overdose-prevention-data-dashboard-is-published-i-restructed-the-dashboard-to-include-bslib-and-a-more-modern-look-while-integrating-new-data-for-more-timely-updates",
