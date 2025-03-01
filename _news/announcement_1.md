@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-23
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I presented on [automating reporting in Quarto](https://oregonresearch.org/2024/08/23/sora-fall-webinar-r-showcase) at the State of Oregon Research Academy (SORA).
